@@ -15,7 +15,7 @@ An android application to Manage your Expenses
  
 # 
  
- <img src=" https://raw.githubusercontent.com/umangsh28/VoiceIncomeManager/master/app/src/Screenshot%20(556).png">
+ <img src="https://raw.githubusercontent.com/umangsh28/VoiceIncomeManager/master/app/src/Screenshot%20(556).png">
  
 
 
