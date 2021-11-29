@@ -5,7 +5,8 @@ An android application to Manage your Expenses
 
 * [Android Studio](https://developer.android.com/studio)
 * [Kotlin](https://kotlinlang.org/)
-*  Google Api|RoomDatabase
+*  [Google Api](https://developers.google.com/apis-explorer)
+*  [RoomDatabase](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)
 
 # Clone this Repo To Your System Using Android Studio✨
 
