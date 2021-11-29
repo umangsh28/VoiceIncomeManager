@@ -1,12 +1,16 @@
 # VoiceIncomeManager
 An android application to Manage your Expenses
 
+
+
 # Tech Stack ✨
 
 * [Android Studio](https://developer.android.com/studio)
 * [Kotlin](https://kotlinlang.org/)
 *  [Google Api](https://developers.google.com/apis-explorer)
 *  [RoomDatabase](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)
+
+![WhatsApp Image 2021-09-26 at 12 53 26 AM](https://drive.google.com/file/d/1JyNct4VECMs8ARD0RXcaisNf8nFJwQ0l/view?usp=sharing)
 
 # Clone this Repo To Your System Using Android Studio✨
 
